@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 Tutorial for udemy course - React
 To run the project:
 
